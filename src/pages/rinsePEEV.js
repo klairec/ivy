@@ -1,6 +1,6 @@
 import * as React from 'react'
 import PageLayout from '../components/pageLayout'
-import cover from '../images/rinsePEEV.png'
+import cover from '../images/rinsePeev.png'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons"
 

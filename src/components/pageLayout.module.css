@@ -1,0 +1,53 @@
+@import "../fonts/fonts.css";
+
+body {
+    background-color: #1A1A1A;
+    font-family: 'Technology', sans-serif;
+    color: #08FF08;
+    margin: auto;
+    max-width: 1300px;
+}
+
+.page {
+    margin-top: 3em;
+}
+
+a {
+    text-decoration: none;
+    color: #08FF08
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+img {
+    width: 25%;
+    opacity: 1;
+    filter: none;
+}
+
+.iframe {
+    margin-bottom: 2.3em;
+    padding: 1.1em;
+    border: 1px solid #08FF08;
+    border-radius: 5px;
+}
+
+.content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    font-size: 1.2em;
+}
+
+.list {
+    line-height: 0.8em;
+    font-family: "Roboto Mono";
+    font-size: 0.8em;
+}
+
+.back {
+    padding: 0 0 2em 0;
+    font-size: 0.9em;
+}

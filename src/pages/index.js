@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 
 import electroLabCover from '../images/electroLab.png'
 import moduleCover from '../images/module.png'
-import rinsePEEVCover from '../images/rinsePEEV.png'
+import rinsePEEVCover from '../images/rinsePeev.png'
 import electronicConsortiumCover from '../images/electronicConsortium.png'
 import tremplinAstropolisCover from '../images/tremplinAstropolis.png'
 import resonaCover from '../images/resona.png'
